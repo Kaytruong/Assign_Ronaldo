@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Assign_Ronaldo/static/css/main.7287ff86.css",
-    "main.js": "/Assign_Ronaldo/static/js/main.03c89fc2.js",
+    "main.css": "/Assign_Ronaldo/static/css/main.acd3eb1a.css",
+    "main.js": "/Assign_Ronaldo/static/js/main.d56344a0.js",
     "static/js/453.c183be21.chunk.js": "/Assign_Ronaldo/static/js/453.c183be21.chunk.js",
     "static/media/Poppins-ExtraBold.ttf": "/Assign_Ronaldo/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
     "static/media/Poppins-Black.ttf": "/Assign_Ronaldo/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/about.jpg": "/Assign_Ronaldo/static/media/about.0c14acdb17130292b4a7.jpg",
     "static/media/LilitaOne-Regular.ttf": "/Assign_Ronaldo/static/media/LilitaOne-Regular.e970d047065ed950bb8c.ttf",
     "index.html": "/Assign_Ronaldo/index.html",
-    "main.7287ff86.css.map": "/Assign_Ronaldo/static/css/main.7287ff86.css.map",
-    "main.03c89fc2.js.map": "/Assign_Ronaldo/static/js/main.03c89fc2.js.map",
+    "main.acd3eb1a.css.map": "/Assign_Ronaldo/static/css/main.acd3eb1a.css.map",
+    "main.d56344a0.js.map": "/Assign_Ronaldo/static/js/main.d56344a0.js.map",
     "453.c183be21.chunk.js.map": "/Assign_Ronaldo/static/js/453.c183be21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7287ff86.css",
-    "static/js/main.03c89fc2.js"
+    "static/css/main.acd3eb1a.css",
+    "static/js/main.d56344a0.js"
   ]
 }
