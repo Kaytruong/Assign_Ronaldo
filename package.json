@@ -1,5 +1,6 @@
 {
   "name": "ronaldo-clone",
+  "homepage": "https://kaytruong.github.io/Ronaldo-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,7 +40,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://kaytruong.github.io/Ronaldo-clone",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
