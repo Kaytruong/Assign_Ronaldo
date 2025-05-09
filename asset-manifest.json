@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Assign_Ronaldo/static/css/main.df5cc778.css",
+    "main.css": "/Assign_Ronaldo/static/css/main.3b194922.css",
     "main.js": "/Assign_Ronaldo/static/js/main.7195395e.js",
     "static/js/453.c183be21.chunk.js": "/Assign_Ronaldo/static/js/453.c183be21.chunk.js",
     "static/media/Poppins-ExtraBold.ttf": "/Assign_Ronaldo/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
@@ -12,12 +12,12 @@
     "static/media/partner-5.png": "/Assign_Ronaldo/static/media/partner-5.5492078ae0154b9ec486.png",
     "static/media/partner-3.png": "/Assign_Ronaldo/static/media/partner-3.4a4e43a91003af7c19c0.png",
     "index.html": "/Assign_Ronaldo/index.html",
-    "main.df5cc778.css.map": "/Assign_Ronaldo/static/css/main.df5cc778.css.map",
+    "main.3b194922.css.map": "/Assign_Ronaldo/static/css/main.3b194922.css.map",
     "main.7195395e.js.map": "/Assign_Ronaldo/static/js/main.7195395e.js.map",
     "453.c183be21.chunk.js.map": "/Assign_Ronaldo/static/js/453.c183be21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df5cc778.css",
+    "static/css/main.3b194922.css",
     "static/js/main.7195395e.js"
   ]
 }
